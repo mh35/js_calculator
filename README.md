@@ -1,2 +1,2 @@
-# js_calculator
-JavaScript calculator
+# JavaScript計算プログラム
+JavaScriptの計算用HTMLプログラムです
